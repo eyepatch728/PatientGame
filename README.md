@@ -1,1 +1,1 @@
-# HospitalGame
+# Doctor's Clinic
