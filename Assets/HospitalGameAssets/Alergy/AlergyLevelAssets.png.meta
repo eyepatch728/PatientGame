@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 73ea7ad32d0418d499efc7246ae10951
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4512951816131521625
+    second: AlergyLevelAssets_0
+  - first:
+      213: -3552375818892285486
+    second: AlergyLevelAssets_1
+  - first:
+      213: -1567920199126255392
+    second: AlergyLevelAssets_2
+  - first:
+      213: 7881293746996482105
+    second: AlergyLevelAssets_3
+  - first:
+      213: 7690277130663736921
+    second: AlergyLevelAssets_4
+  - first:
+      213: -8186050216169086662
+    second: AlergyLevelAssets_5
+  - first:
+      213: 8350461698579163960
+    second: AlergyLevelAssets_6
+  - first:
+      213: -7220168547916387669
+    second: AlergyLevelAssets_7
+  - first:
+      213: 6590282966455625062
+    second: AlergyLevelAssets_8
+  - first:
+      213: -1504411430050763278
+    second: AlergyLevelAssets_9
+  - first:
+      213: -2368849387110786820
+    second: AlergyLevelAssets_10
+  - first:
+      213: -8518742215793462018
+    second: AlergyLevelAssets_11
+  - first:
+      213: -3430830752165206967
+    second: AlergyLevelAssets_12
+  - first:
+      213: 7980959095880928489
+    second: AlergyLevelAssets_13
+  - first:
+      213: 8252202060393067824
+    second: AlergyLevelAssets_14
+  - first:
+      213: 2353560056963973988
+    second: AlergyLevelAssets_15
+  - first:
+      213: -8005209189525559211
+    second: AlergyLevelAssets_16
+  - first:
+      213: 4206469301391697569
+    second: AlergyLevelAssets_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlergyLevelAssets_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1850
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c29f024c931ae30800000000000000
+      internalID: 4512951816131521625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1802
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ec36930d63bec0800000000000000
+      internalID: -3552375818892285486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1800
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e87be6d2e0ad3ae0800000000000000
+      internalID: -1567920199126255392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9309b30f7eaff5d60800000000000000
+      internalID: 7881293746996482105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1801
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956b5853e4a59ba60800000000000000
+      internalID: 7690277130663736921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1760
+        width: 263
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a316bbf23be456e80800000000000000
+      internalID: -8186050216169086662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_6
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1753
+        width: 276
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83be0561cacc2e370800000000000000
+      internalID: 8350461698579163960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_7
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1415
+        width: 214
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaeef2b5fecccb90800000000000000
+      internalID: -7220168547916387669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1562
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66525e0f073657b50800000000000000
+      internalID: 6590282966455625062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1300
+        width: 14
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd69cb66c14f1be0800000000000000
+      internalID: -1504411430050763278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1275
+        width: 92
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf81cda7808202fd0800000000000000
+      internalID: -2368849387110786820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1267
+        width: 96
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4b186c61957c980800000000000000
+      internalID: -8518742215793462018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1267
+        width: 95
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944e4b4bb9d3360d0800000000000000
+      internalID: -3430830752165206967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1267
+        width: 95
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc7e4430012ce60800000000000000
+      internalID: 7980959095880928489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1267
+        width: 95
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035b9784d06b58270800000000000000
+      internalID: 8252202060393067824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_15
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1337
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c2e0f66689a020800000000000000
+      internalID: 2353560056963973988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 816
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e2a1d7a8c7e090800000000000000
+      internalID: -8005209189525559211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlergyLevelAssets_17
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 78
+        width: 953
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a904fa81606a30800000000000000
+      internalID: 4206469301391697569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AlergyLevelAssets_0: 4512951816131521625
+      AlergyLevelAssets_1: -3552375818892285486
+      AlergyLevelAssets_10: -2368849387110786820
+      AlergyLevelAssets_11: -8518742215793462018
+      AlergyLevelAssets_12: -3430830752165206967
+      AlergyLevelAssets_13: 7980959095880928489
+      AlergyLevelAssets_14: 8252202060393067824
+      AlergyLevelAssets_15: 2353560056963973988
+      AlergyLevelAssets_16: -8005209189525559211
+      AlergyLevelAssets_17: 4206469301391697569
+      AlergyLevelAssets_2: -1567920199126255392
+      AlergyLevelAssets_3: 7881293746996482105
+      AlergyLevelAssets_4: 7690277130663736921
+      AlergyLevelAssets_5: -8186050216169086662
+      AlergyLevelAssets_6: 8350461698579163960
+      AlergyLevelAssets_7: -7220168547916387669
+      AlergyLevelAssets_8: 6590282966455625062
+      AlergyLevelAssets_9: -1504411430050763278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

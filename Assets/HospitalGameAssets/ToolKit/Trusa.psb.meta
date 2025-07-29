@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 20ae704e9abc6fe49b2a6134751a2d84
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 016abc3f99fca4c419720096a66b2e3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Capac
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2024
+      width: 2909
+      height: 1778
+    spriteID: 898bd0ac06a061d44a7c0d2798e94b0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2024}
+    spritePosition: {x: 31, y: 2040}
+  - name: ID
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2921
+      y: 3033
+      width: 749
+      height: 570
+    spriteID: f2c2aca057260f64da036ba3bd733543
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2921, y: 3033}
+    spritePosition: {x: 1885, y: 526}
+  - name: Plasture
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3425
+      y: 4443
+      width: 651
+      height: 221
+    spriteID: 43f6340afbbc9e54dbabe628b18b62b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3425, y: 4443}
+    spritePosition: {x: 1809, y: 1586}
+  - name: Termometru
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 4802
+      width: 885
+      height: 254
+    spriteID: 148c23724432e1a4496765f50b2bb012
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 4802}
+    spritePosition: {x: 1813, y: 1183}
+  - name: Stetoscop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3551
+      y: 4
+      width: 508
+      height: 1058
+    spriteID: f6ad747bb95c8b242ae212b3a52d9a98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3551, y: 4}
+    spritePosition: {x: 1189, y: 539}
+  - name: Dosar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4443
+      width: 610
+      height: 947
+    spriteID: e1481d7299a5c074f84e31fea0f5ad10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4443}
+    spritePosition: {x: 355, y: 555}
+  - name: Seringa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2524
+      y: 4443
+      width: 893
+      height: 297
+    spriteID: 9f4ec5e37c1278741a765bde564f0f48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2524, y: 4443}
+    spritePosition: {x: 674, y: 1568}
+  - name: UmbraPlasture
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 5064
+      width: 706
+      height: 275
+    spriteID: 942779105abc3a9459df8b9a5b2a29ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 5064}
+    spritePosition: {x: 1782, y: 1559}
+  - name: UmbraStetoscop
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2981
+      y: 4
+      width: 562
+      height: 1112
+    spriteID: bd1bb621b63841c4cb3faaeafa91265f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2981, y: 4}
+    spritePosition: {x: 1162, y: 512}
+  - name: UmbraDosar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2921
+      y: 2024
+      width: 664
+      height: 1001
+    spriteID: c40099260aa1a8c4390c701e36131f94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2921, y: 2024}
+    spritePosition: {x: 328, y: 528}
+  - name: UmbraInjectie
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 622
+      y: 4443
+      width: 947
+      height: 351
+    spriteID: f9e40bd5b76fc1d4c83e71d378932504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 622, y: 4443}
+    spritePosition: {x: 647, y: 1541}
+  - name: UmbraID
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 2981
+      y: 3810
+      width: 803
+      height: 624
+    spriteID: bb06c01e4e44c1846bc5b206af654ee6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2981, y: 3810}
+    spritePosition: {x: 1858, y: 499}
+  - name: UmbraTermometru
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1577
+      y: 4443
+      width: 939
+      height: 308
+    spriteID: e12b5ee7a9de26f408508ccda6d6881a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1577, y: 4443}
+    spritePosition: {x: 1786, y: 1156}
+  - name: <Group>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3678
+      y: 3215
+      width: 158
+      height: 174
+    spriteID: 93242542f29f0c7409899c9d5ed31239
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3678, y: 3215}
+    spritePosition: {x: 2152, y: 156}
+  - name: <Group>
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3678
+      y: 3033
+      width: 159
+      height: 174
+    spriteID: 2f35f5d8920a8ff4dae59dd9ad6a3ba0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3678, y: 3033}
+    spritePosition: {x: 600, y: 151}
+  - name: Trusa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2969
+      height: 2012
+    spriteID: a71582b7e33c16044b9b4183c6104b81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 31}
+  - name: Umbra
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3810
+      width: 2969
+      height: 625
+    spriteID: 6c59c255a1e72a744bf2bed8cb59e166
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3810}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Capac
+    spriteName: Capac
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 898bd0ac06a061d44a7c0d2798e94b0c
+    layerID: 239
+    mosaicPosition: {x: 4, y: 2024}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Elemente
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6e4c8da19565a704e904b52892827696
+    layerID: 225
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ID
+    spriteName: ID
+    isGroup: 0
+    parentIndex: 1
+    spriteID: f2c2aca057260f64da036ba3bd733543
+    layerID: 223
+    mosaicPosition: {x: 2921, y: 3033}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plasture
+    spriteName: Plasture
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 43f6340afbbc9e54dbabe628b18b62b9
+    layerID: 211
+    mosaicPosition: {x: 3425, y: 4443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Termometru
+    spriteName: Termometru
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 148c23724432e1a4496765f50b2bb012
+    layerID: 202
+    mosaicPosition: {x: 622, y: 4802}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stetoscop
+    spriteName: Stetoscop
+    isGroup: 0
+    parentIndex: 1
+    spriteID: f6ad747bb95c8b242ae212b3a52d9a98
+    layerID: 189
+    mosaicPosition: {x: 3551, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Dosar
+    spriteName: Dosar
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e1481d7299a5c074f84e31fea0f5ad10
+    layerID: 175
+    mosaicPosition: {x: 4, y: 4443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Seringa
+    spriteName: Seringa
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9f4ec5e37c1278741a765bde564f0f48
+    layerID: 156
+    mosaicPosition: {x: 2524, y: 4443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbreElemente
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 287a17625027446448b0a9a1aadfc045
+    layerID: 142
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: UmbraPlasture
+    spriteName: UmbraPlasture
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 942779105abc3a9459df8b9a5b2a29ee
+    layerID: 140
+    mosaicPosition: {x: 622, y: 5064}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbraStetoscop
+    spriteName: UmbraStetoscop
+    isGroup: 0
+    parentIndex: 8
+    spriteID: bd1bb621b63841c4cb3faaeafa91265f
+    layerID: 131
+    mosaicPosition: {x: 2981, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbraDosar
+    spriteName: UmbraDosar
+    isGroup: 0
+    parentIndex: 8
+    spriteID: c40099260aa1a8c4390c701e36131f94
+    layerID: 113
+    mosaicPosition: {x: 2921, y: 2024}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbraInjectie
+    spriteName: UmbraInjectie
+    isGroup: 0
+    parentIndex: 8
+    spriteID: f9e40bd5b76fc1d4c83e71d378932504
+    layerID: 82
+    mosaicPosition: {x: 622, y: 4443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbraID
+    spriteName: UmbraID
+    isGroup: 0
+    parentIndex: 8
+    spriteID: bb06c01e4e44c1846bc5b206af654ee6
+    layerID: 65
+    mosaicPosition: {x: 2981, y: 3810}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UmbraTermometru
+    spriteName: UmbraTermometru
+    isGroup: 0
+    parentIndex: 8
+    spriteID: e12b5ee7a9de26f408508ccda6d6881a
+    layerID: 56
+    mosaicPosition: {x: 1577, y: 4443}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Incheietoare
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3b53ea1b98010ff448aa93a6671123d2
+    layerID: 41
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: <Group>
+    spriteName: <Group>
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 93242542f29f0c7409899c9d5ed31239
+    layerID: 39
+    mosaicPosition: {x: 3678, y: 3215}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: <Group>
+    spriteName: <Group>
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 2f35f5d8920a8ff4dae59dd9ad6a3ba0
+    layerID: 32
+    mosaicPosition: {x: 3678, y: 3033}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Trusa
+    spriteName: Trusa
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a71582b7e33c16044b9b4183c6104b81
+    layerID: 25
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Umbra
+    spriteName: Umbra
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6c59c255a1e72a744bf2bed8cb59e166
+    layerID: 2
+    mosaicPosition: {x: 4, y: 3810}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

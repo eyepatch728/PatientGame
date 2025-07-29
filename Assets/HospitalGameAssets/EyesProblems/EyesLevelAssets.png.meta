@@ -1,0 +1,1543 @@
+fileFormatVersion: 2
+guid: c3fa31a2b7f4d4c4c93c7e7cba3f9242
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2953005386012513691
+    second: EyesLevelAssets_0
+  - first:
+      213: 8376845006263838227
+    second: EyesLevelAssets_1
+  - first:
+      213: 4825688113398691585
+    second: EyesLevelAssets_2
+  - first:
+      213: 2648517226811024356
+    second: EyesLevelAssets_3
+  - first:
+      213: -6666496354395756760
+    second: EyesLevelAssets_4
+  - first:
+      213: -5401616946246930794
+    second: EyesLevelAssets_5
+  - first:
+      213: -6193218082503493752
+    second: EyesLevelAssets_6
+  - first:
+      213: 6976388345419735556
+    second: EyesLevelAssets_7
+  - first:
+      213: -678492915801492232
+    second: EyesLevelAssets_8
+  - first:
+      213: 2353367426588387811
+    second: EyesLevelAssets_9
+  - first:
+      213: -6814754462628521427
+    second: EyesLevelAssets_10
+  - first:
+      213: -9090279013902738115
+    second: EyesLevelAssets_11
+  - first:
+      213: -2136214464755799765
+    second: EyesLevelAssets_12
+  - first:
+      213: 4359642118196791897
+    second: EyesLevelAssets_13
+  - first:
+      213: -6132575484300887213
+    second: EyesLevelAssets_14
+  - first:
+      213: 6928903057177251590
+    second: EyesLevelAssets_15
+  - first:
+      213: -3599090975180519631
+    second: EyesLevelAssets_16
+  - first:
+      213: 2881933048402160376
+    second: EyesLevelAssets_17
+  - first:
+      213: -3785698447998401801
+    second: EyesLevelAssets_18
+  - first:
+      213: 6883483651524903614
+    second: EyesLevelAssets_19
+  - first:
+      213: -1098261265211916504
+    second: EyesLevelAssets_20
+  - first:
+      213: -6158146712160327066
+    second: EyesLevelAssets_21
+  - first:
+      213: 1869031284001335519
+    second: EyesLevelAssets_22
+  - first:
+      213: -1403395519041895950
+    second: EyesLevelAssets_23
+  - first:
+      213: 3414057859291784816
+    second: EyesLevelAssets_24
+  - first:
+      213: -8307471750637979237
+    second: EyesLevelAssets_25
+  - first:
+      213: -8181160035082613663
+    second: EyesLevelAssets_26
+  - first:
+      213: -1467005534400380827
+    second: EyesLevelAssets_27
+  - first:
+      213: -702976392142500744
+    second: EyesLevelAssets_28
+  - first:
+      213: 3242483525985798774
+    second: EyesLevelAssets_29
+  - first:
+      213: 2630370823324540613
+    second: EyesLevelAssets_30
+  - first:
+      213: -2204100255808977986
+    second: EyesLevelAssets_31
+  - first:
+      213: 485104202951547590
+    second: EyesLevelAssets_32
+  - first:
+      213: 4405735051564692075
+    second: EyesLevelAssets_33
+  - first:
+      213: -4898243332535926720
+    second: EyesLevelAssets_34
+  - first:
+      213: 4407867860984184318
+    second: EyesLevelAssets_35
+  - first:
+      213: -1801439264686820500
+    second: EyesLevelAssets_36
+  - first:
+      213: -8807092073007973591
+    second: EyesLevelAssets_37
+  - first:
+      213: 8318221622223396267
+    second: EyesLevelAssets_38
+  - first:
+      213: -411708742401801513
+    second: EyesLevelAssets_39
+  - first:
+      213: -7777315495627957873
+    second: EyesLevelAssets_40
+  - first:
+      213: 6758323786936255927
+    second: EyesLevelAssets_41
+  - first:
+      213: -8480525879153800755
+    second: EyesLevelAssets_42
+  - first:
+      213: 5864155074936211498
+    second: EyesLevelAssets_43
+  - first:
+      213: -8284518101746786434
+    second: EyesLevelAssets_44
+  - first:
+      213: 7236161369079896374
+    second: EyesLevelAssets_45
+  - first:
+      213: -2916276763897192533
+    second: EyesLevelAssets_46
+  - first:
+      213: 8493106239497978501
+    second: EyesLevelAssets_47
+  - first:
+      213: -7986452579488873826
+    second: EyesLevelAssets_48
+  - first:
+      213: -5224769236946304066
+    second: EyesLevelAssets_49
+  - first:
+      213: -2933606566847350869
+    second: EyesLevelAssets_50
+  - first:
+      213: 7506453997673702332
+    second: EyesLevelAssets_51
+  - first:
+      213: 4365823881125094324
+    second: EyesLevelAssets_52
+  - first:
+      213: 2640582177155299129
+    second: EyesLevelAssets_53
+  - first:
+      213: -8105210160970185
+    second: EyesLevelAssets_54
+  - first:
+      213: -7878663533315702843
+    second: EyesLevelAssets_55
+  - first:
+      213: -8286630983985887113
+    second: EyesLevelAssets_56
+  - first:
+      213: -9079877388277755242
+    second: EyesLevelAssets_57
+  - first:
+      213: 4711964422464958064
+    second: EyesLevelAssets_58
+  - first:
+      213: -4460213456685813215
+    second: EyesLevelAssets_59
+  - first:
+      213: -3520041316508377857
+    second: EyesLevelAssets_60
+  - first:
+      213: -3397722723445907067
+    second: EyesLevelAssets_61
+  - first:
+      213: 7858402204673330873
+    second: EyesLevelAssets_62
+  - first:
+      213: -8880473473429455752
+    second: EyesLevelAssets_63
+  - first:
+      213: -4449410599627483831
+    second: EyesLevelAssets_64
+  - first:
+      213: 6229437376971061846
+    second: EyesLevelAssets_65
+  - first:
+      213: -5059637596855387817
+    second: EyesLevelAssets_66
+  - first:
+      213: -4805342861657299637
+    second: EyesLevelAssets_67
+  - first:
+      213: 7491795301853212892
+    second: EyesLevelAssets_68
+  - first:
+      213: 1437844480343586956
+    second: EyesLevelAssets_69
+  - first:
+      213: 6021767488075320855
+    second: EyesLevelAssets_70
+  - first:
+      213: -6140987047807335347
+    second: EyesLevelAssets_71
+  - first:
+      213: 2428665679299696844
+    second: EyesLevelAssets_72
+  - first:
+      213: 8627642833716652057
+    second: EyesLevelAssets_73
+  - first:
+      213: 7313837754428603084
+    second: EyesLevelAssets_74
+  - first:
+      213: 950236639456042358
+    second: EyesLevelAssets_75
+  - first:
+      213: 5409536467615907150
+    second: EyesLevelAssets_76
+  - first:
+      213: 4642285675256061243
+    second: EyesLevelAssets_77
+  - first:
+      213: -1223477025780566550
+    second: EyesLevelAssets_78
+  - first:
+      213: 8468671623339592896
+    second: EyesLevelAssets_79
+  - first:
+      213: -2301800963815578176
+    second: EyesLevelAssets_80
+  - first:
+      213: -8055959559787582360
+    second: EyesLevelAssets_81
+  - first:
+      213: 4622220425992022497
+    second: EyesLevelAssets_82
+  - first:
+      213: 4901776355875469616
+    second: EyesLevelAssets_83
+  - first:
+      213: 3698507992051826289
+    second: EyesLevelAssets_84
+  - first:
+      213: 8485573235797622275
+    second: EyesLevelAssets_85
+  - first:
+      213: -2233326383885128997
+    second: EyesLevelAssets_86
+  - first:
+      213: -2257223474104482582
+    second: EyesLevelAssets_87
+  - first:
+      213: 2226526865191624164
+    second: EyesLevelAssets_88
+  - first:
+      213: 164859251831492338
+    second: EyesLevelAssets_89
+  - first:
+      213: -9076139967458439847
+    second: EyesLevelAssets_90
+  - first:
+      213: 6472839089091731132
+    second: EyesLevelAssets_91
+  - first:
+      213: 6264480130042538428
+    second: EyesLevelAssets_92
+  - first:
+      213: 8640843659637216492
+    second: EyesLevelAssets_93
+  - first:
+      213: -6779446742597364917
+    second: EyesLevelAssets_94
+  - first:
+      213: -3472413554533186577
+    second: EyesLevelAssets_95
+  - first:
+      213: -6998979106108746884
+    second: EyesLevelAssets_96
+  - first:
+      213: 730527379531024501
+    second: EyesLevelAssets_97
+  - first:
+      213: 544541329112280182
+    second: EyesLevelAssets_98
+  - first:
+      213: -1775812844875008526
+    second: EyesLevelAssets_99
+  - first:
+      213: 4075182211017697412
+    second: EyesLevelAssets_100
+  - first:
+      213: 6683694508331026352
+    second: EyesLevelAssets_101
+  - first:
+      213: -5918801439177873236
+    second: EyesLevelAssets_102
+  - first:
+      213: 3231534782965816913
+    second: EyesLevelAssets_103
+  - first:
+      213: 8813525503176723460
+    second: EyesLevelAssets_104
+  - first:
+      213: -7615320338300043484
+    second: EyesLevelAssets_105
+  - first:
+      213: 5954966262905537248
+    second: EyesLevelAssets_106
+  - first:
+      213: 3910924807300326487
+    second: EyesLevelAssets_107
+  - first:
+      213: 4247372499857123334
+    second: EyesLevelAssets_108
+  - first:
+      213: -4505021415926146314
+    second: EyesLevelAssets_109
+  - first:
+      213: 2519814139940108358
+    second: EyesLevelAssets_110
+  - first:
+      213: 4115786812903941496
+    second: EyesLevelAssets_111
+  - first:
+      213: 8199726042193267494
+    second: EyesLevelAssets_112
+  - first:
+      213: -8308356651530058421
+    second: EyesLevelAssets_113
+  - first:
+      213: 7400212894934848974
+    second: EyesLevelAssets_114
+  - first:
+      213: 2467097513882199111
+    second: EyesLevelAssets_115
+  - first:
+      213: 1980106089677577642
+    second: EyesLevelAssets_116
+  - first:
+      213: -5254160675744186072
+    second: EyesLevelAssets_117
+  - first:
+      213: -7386913563542859693
+    second: EyesLevelAssets_118
+  - first:
+      213: 4049292395262346655
+    second: EyesLevelAssets_119
+  - first:
+      213: -8424628820824745568
+    second: EyesLevelAssets_120
+  - first:
+      213: 2514480112068631815
+    second: EyesLevelAssets_121
+  - first:
+      213: -1634773531142215027
+    second: EyesLevelAssets_122
+  - first:
+      213: 8571855586231458339
+    second: EyesLevelAssets_123
+  - first:
+      213: -7928708067257622518
+    second: EyesLevelAssets_124
+  - first:
+      213: -2302831777224290596
+    second: EyesLevelAssets_125
+  - first:
+      213: 8745662398927660710
+    second: EyesLevelAssets_126
+  - first:
+      213: 4075634075578547130
+    second: EyesLevelAssets_127
+  - first:
+      213: -56145142059518483
+    second: EyesLevelAssets_128
+  - first:
+      213: -1508628927871797109
+    second: EyesLevelAssets_129
+  - first:
+      213: 713542535321997216
+    second: EyesLevelAssets_130
+  - first:
+      213: -6240834487380189771
+    second: EyesLevelAssets_131
+  - first:
+      213: -605823628818170887
+    second: EyesLevelAssets_132
+  - first:
+      213: -8158734083551137188
+    second: EyesLevelAssets_133
+  - first:
+      213: -7664864592912193149
+    second: EyesLevelAssets_134
+  - first:
+      213: -2819241915380198565
+    second: EyesLevelAssets_135
+  - first:
+      213: -6904022941939669276
+    second: EyesLevelAssets_136
+  - first:
+      213: -3413174679853268717
+    second: EyesLevelAssets_137
+  - first:
+      213: 969027897292211053
+    second: EyesLevelAssets_138
+  - first:
+      213: -4993881990863349525
+    second: EyesLevelAssets_139
+  - first:
+      213: -5454358445347305637
+    second: EyesLevelAssets_140
+  - first:
+      213: -4309949253449373752
+    second: EyesLevelAssets_141
+  - first:
+      213: -6292171068057470330
+    second: EyesLevelAssets_142
+  - first:
+      213: -665479727948110113
+    second: EyesLevelAssets_143
+  - first:
+      213: -3708859828677310098
+    second: EyesLevelAssets_144
+  - first:
+      213: 3614655877769092655
+    second: EyesLevelAssets_145
+  - first:
+      213: 7032471071638539004
+    second: EyesLevelAssets_146
+  - first:
+      213: 9196376928365579980
+    second: EyesLevelAssets_147
+  - first:
+      213: -4675726506453912415
+    second: EyesLevelAssets_148
+  - first:
+      213: 1418402396121927415
+    second: EyesLevelAssets_149
+  - first:
+      213: -1926551746758534305
+    second: EyesLevelAssets_150
+  - first:
+      213: -8842385631799175175
+    second: EyesLevelAssets_151
+  - first:
+      213: -44499735704348385
+    second: EyesLevelAssets_152
+  - first:
+      213: -5157318069313052682
+    second: EyesLevelAssets_153
+  - first:
+      213: -4639392131718342913
+    second: EyesLevelAssets_154
+  - first:
+      213: -1745067242705509445
+    second: EyesLevelAssets_155
+  - first:
+      213: -3186069153884963875
+    second: EyesLevelAssets_156
+  - first:
+      213: -9140015203938580234
+    second: EyesLevelAssets_157
+  - first:
+      213: 5682964887787648900
+    second: EyesLevelAssets_158
+  - first:
+      213: -251574207383836707
+    second: EyesLevelAssets_159
+  - first:
+      213: -67723320955274011
+    second: EyesLevelAssets_160
+  - first:
+      213: -3458102547510324308
+    second: EyesLevelAssets_161
+  - first:
+      213: -3702724487853816883
+    second: EyesLevelAssets_162
+  - first:
+      213: -1372062049659036652
+    second: EyesLevelAssets_163
+  - first:
+      213: -8490327535856831512
+    second: EyesLevelAssets_164
+  - first:
+      213: 3250210206856058312
+    second: EyesLevelAssets_165
+  - first:
+      213: 8432580929866358496
+    second: EyesLevelAssets_166
+  - first:
+      213: -7435887345116679549
+    second: EyesLevelAssets_167
+  - first:
+      213: -4954695007107845957
+    second: EyesLevelAssets_168
+  - first:
+      213: -7299597437205469608
+    second: EyesLevelAssets_169
+  - first:
+      213: 1691713811623372854
+    second: EyesLevelAssets_170
+  - first:
+      213: -1034708051354790037
+    second: EyesLevelAssets_171
+  - first:
+      213: 6319610786782171203
+    second: EyesLevelAssets_172
+  - first:
+      213: -314174840525199493
+    second: EyesLevelAssets_173
+  - first:
+      213: 6580819185837736200
+    second: EyesLevelAssets_174
+  - first:
+      213: 2991062564473602743
+    second: EyesLevelAssets_175
+  - first:
+      213: -5906763288897852769
+    second: EyesLevelAssets_176
+  - first:
+      213: -6915281519406572397
+    second: EyesLevelAssets_177
+  - first:
+      213: 7232925789127609234
+    second: EyesLevelAssets_178
+  - first:
+      213: -1423202784654712678
+    second: EyesLevelAssets_179
+  - first:
+      213: 2829491094834183827
+    second: EyesLevelAssets_180
+  - first:
+      213: 7348719674269330362
+    second: EyesLevelAssets_181
+  - first:
+      213: -1988069094650591793
+    second: EyesLevelAssets_182
+  - first:
+      213: -836227885461021258
+    second: EyesLevelAssets_183
+  - first:
+      213: -8029019119275734454
+    second: EyesLevelAssets_184
+  - first:
+      213: 310569426314307439
+    second: EyesLevelAssets_185
+  - first:
+      213: 7359267858973233327
+    second: EyesLevelAssets_186
+  - first:
+      213: -6754332289711432053
+    second: EyesLevelAssets_187
+  - first:
+      213: 4715775610344816497
+    second: EyesLevelAssets_188
+  - first:
+      213: 1841557480070783680
+    second: EyesLevelAssets_189
+  - first:
+      213: -912145738718005637
+    second: EyesLevelAssets_190
+  - first:
+      213: 5161738539712481085
+    second: EyesLevelAssets_191
+  - first:
+      213: 5315342735915657610
+    second: EyesLevelAssets_192
+  - first:
+      213: 7251987490282383011
+    second: EyesLevelAssets_193
+  - first:
+      213: -649259461340189379
+    second: EyesLevelAssets_194
+  - first:
+      213: 8994697493821664694
+    second: EyesLevelAssets_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyesLevelAssets_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3671
+        width: 311
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa8e24f31d407d0800000000000000
+      internalID: -2953005386012513691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3702
+        width: 515
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166cd89628804470800000000000000
+      internalID: 8376845006263838227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3627
+        width: 439
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10734f385c948f240800000000000000
+      internalID: 4825688113398691585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_3
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 3562
+        width: 499
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3e295a26c61c420800000000000000
+      internalID: 2648517226811024356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_4
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3617
+        width: 461
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827edc3e2e8db73a0800000000000000
+      internalID: -6666496354395756760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_5
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 3630
+        width: 505
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea832a10a9905b0800000000000000
+      internalID: -5401616946246930794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_6
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 3628
+        width: 426
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877adf87f44d0aa0800000000000000
+      internalID: -6193218082503493752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_7
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 3615
+        width: 439
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4022be7dc3c11d060800000000000000
+      internalID: 6976388345419735556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_8
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3002
+        width: 511
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47803b9428596f0800000000000000
+      internalID: -678492915801492232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_9
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 3033
+        width: 496
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9a6cfa437d8a020800000000000000
+      internalID: 2353367426588387811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_10
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 3054
+        width: 544
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad48f1ce02d61a0800000000000000
+      internalID: -6814754462628521427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_11
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3055
+        width: 464
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d93233667d8d180800000000000000
+      internalID: -9090279013902738115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_12
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 3036
+        width: 488
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29ed203344aa52e0800000000000000
+      internalID: -2136214464755799765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_16
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3056
+        width: 485
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370d0ea3d57d0ec0800000000000000
+      internalID: -3599090975180519631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3107
+        width: 317
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c7328411594af0800000000000000
+      internalID: -411708742401801513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3114
+        width: 548
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8954f043cc611490800000000000000
+      internalID: -7777315495627957873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_184
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2260
+        width: 773
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a00cc86a1339090800000000000000
+      internalID: -8029019119275734454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_185
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1860
+        width: 212
+        height: 999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67af8d6f3d5f4400800000000000000
+      internalID: 310569426314307439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_186
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1965
+        width: 1571
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa09c0d602f512660800000000000000
+      internalID: 7359267858973233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_187
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1972
+        width: 424
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e9cc8819ac342a0800000000000000
+      internalID: -6754332289711432053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_188
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1610
+        width: 711
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fbd0faeecc17140800000000000000
+      internalID: 4715775610344816497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_189
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 954
+        width: 1570
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2251965c68e8910800000000000000
+      internalID: 1841557480070783680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_190
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1637
+        width: 221
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b35c88486753f0800000000000000
+      internalID: -912145738718005637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1061
+        width: 712
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3781039add22a740800000000000000
+      internalID: 5161738539712481085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_192
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1395
+        width: 221
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a4b17e04e3c940800000000000000
+      internalID: 5315342735915657610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_193
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1154
+        width: 221
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6abd1233c34a460800000000000000
+      internalID: 7251987490282383011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 518
+        width: 712
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da1c7b5fd5df6f0800000000000000
+      internalID: -649259461340189379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyesLevelAssets_195
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 215
+        width: 891
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2655f6b593dc70800000000000000
+      internalID: 8994697493821664694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e12facd99bcfa094fab67bc0d5eeb6a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EyesLevelAssets_0: -2953005386012513691
+      EyesLevelAssets_1: 8376845006263838227
+      EyesLevelAssets_10: -6814754462628521427
+      EyesLevelAssets_100: 4075182211017697412
+      EyesLevelAssets_101: 6683694508331026352
+      EyesLevelAssets_102: -5918801439177873236
+      EyesLevelAssets_103: 3231534782965816913
+      EyesLevelAssets_104: 8813525503176723460
+      EyesLevelAssets_105: -7615320338300043484
+      EyesLevelAssets_106: 5954966262905537248
+      EyesLevelAssets_107: 3910924807300326487
+      EyesLevelAssets_108: 4247372499857123334
+      EyesLevelAssets_109: -4505021415926146314
+      EyesLevelAssets_11: -9090279013902738115
+      EyesLevelAssets_110: 2519814139940108358
+      EyesLevelAssets_111: 4115786812903941496
+      EyesLevelAssets_112: 8199726042193267494
+      EyesLevelAssets_113: -8308356651530058421
+      EyesLevelAssets_114: 7400212894934848974
+      EyesLevelAssets_115: 2467097513882199111
+      EyesLevelAssets_116: 1980106089677577642
+      EyesLevelAssets_117: -5254160675744186072
+      EyesLevelAssets_118: -7386913563542859693
+      EyesLevelAssets_119: 4049292395262346655
+      EyesLevelAssets_12: -2136214464755799765
+      EyesLevelAssets_120: -8424628820824745568
+      EyesLevelAssets_121: 2514480112068631815
+      EyesLevelAssets_122: -1634773531142215027
+      EyesLevelAssets_123: 8571855586231458339
+      EyesLevelAssets_124: -7928708067257622518
+      EyesLevelAssets_125: -2302831777224290596
+      EyesLevelAssets_126: 8745662398927660710
+      EyesLevelAssets_127: 4075634075578547130
+      EyesLevelAssets_128: -56145142059518483
+      EyesLevelAssets_129: -1508628927871797109
+      EyesLevelAssets_13: 4359642118196791897
+      EyesLevelAssets_130: 713542535321997216
+      EyesLevelAssets_131: -6240834487380189771
+      EyesLevelAssets_132: -605823628818170887
+      EyesLevelAssets_133: -8158734083551137188
+      EyesLevelAssets_134: -7664864592912193149
+      EyesLevelAssets_135: -2819241915380198565
+      EyesLevelAssets_136: -6904022941939669276
+      EyesLevelAssets_137: -3413174679853268717
+      EyesLevelAssets_138: 969027897292211053
+      EyesLevelAssets_139: -4993881990863349525
+      EyesLevelAssets_14: -6132575484300887213
+      EyesLevelAssets_140: -5454358445347305637
+      EyesLevelAssets_141: -4309949253449373752
+      EyesLevelAssets_142: -6292171068057470330
+      EyesLevelAssets_143: -665479727948110113
+      EyesLevelAssets_144: -3708859828677310098
+      EyesLevelAssets_145: 3614655877769092655
+      EyesLevelAssets_146: 7032471071638539004
+      EyesLevelAssets_147: 9196376928365579980
+      EyesLevelAssets_148: -4675726506453912415
+      EyesLevelAssets_149: 1418402396121927415
+      EyesLevelAssets_15: 6928903057177251590
+      EyesLevelAssets_150: -1926551746758534305
+      EyesLevelAssets_151: -8842385631799175175
+      EyesLevelAssets_152: -44499735704348385
+      EyesLevelAssets_153: -5157318069313052682
+      EyesLevelAssets_154: -4639392131718342913
+      EyesLevelAssets_155: -1745067242705509445
+      EyesLevelAssets_156: -3186069153884963875
+      EyesLevelAssets_157: -9140015203938580234
+      EyesLevelAssets_158: 5682964887787648900
+      EyesLevelAssets_159: -251574207383836707
+      EyesLevelAssets_16: -3599090975180519631
+      EyesLevelAssets_160: -67723320955274011
+      EyesLevelAssets_161: -3458102547510324308
+      EyesLevelAssets_162: -3702724487853816883
+      EyesLevelAssets_163: -1372062049659036652
+      EyesLevelAssets_164: -8490327535856831512
+      EyesLevelAssets_165: 3250210206856058312
+      EyesLevelAssets_166: 8432580929866358496
+      EyesLevelAssets_167: -7435887345116679549
+      EyesLevelAssets_168: -4954695007107845957
+      EyesLevelAssets_169: -7299597437205469608
+      EyesLevelAssets_17: 2881933048402160376
+      EyesLevelAssets_170: 1691713811623372854
+      EyesLevelAssets_171: -1034708051354790037
+      EyesLevelAssets_172: 6319610786782171203
+      EyesLevelAssets_173: -314174840525199493
+      EyesLevelAssets_174: 6580819185837736200
+      EyesLevelAssets_175: 2991062564473602743
+      EyesLevelAssets_176: -5906763288897852769
+      EyesLevelAssets_177: -6915281519406572397
+      EyesLevelAssets_178: 7232925789127609234
+      EyesLevelAssets_179: -1423202784654712678
+      EyesLevelAssets_18: -3785698447998401801
+      EyesLevelAssets_180: 2829491094834183827
+      EyesLevelAssets_181: 7348719674269330362
+      EyesLevelAssets_182: -1988069094650591793
+      EyesLevelAssets_183: -836227885461021258
+      EyesLevelAssets_184: -8029019119275734454
+      EyesLevelAssets_185: 310569426314307439
+      EyesLevelAssets_186: 7359267858973233327
+      EyesLevelAssets_187: -6754332289711432053
+      EyesLevelAssets_188: 4715775610344816497
+      EyesLevelAssets_189: 1841557480070783680
+      EyesLevelAssets_19: 6883483651524903614
+      EyesLevelAssets_190: -912145738718005637
+      EyesLevelAssets_191: 5161738539712481085
+      EyesLevelAssets_192: 5315342735915657610
+      EyesLevelAssets_193: 7251987490282383011
+      EyesLevelAssets_194: -649259461340189379
+      EyesLevelAssets_195: 8994697493821664694
+      EyesLevelAssets_2: 4825688113398691585
+      EyesLevelAssets_20: -1098261265211916504
+      EyesLevelAssets_21: -6158146712160327066
+      EyesLevelAssets_22: 1869031284001335519
+      EyesLevelAssets_23: -1403395519041895950
+      EyesLevelAssets_24: 3414057859291784816
+      EyesLevelAssets_25: -8307471750637979237
+      EyesLevelAssets_26: -8181160035082613663
+      EyesLevelAssets_27: -1467005534400380827
+      EyesLevelAssets_28: -702976392142500744
+      EyesLevelAssets_29: 3242483525985798774
+      EyesLevelAssets_3: 2648517226811024356
+      EyesLevelAssets_30: 2630370823324540613
+      EyesLevelAssets_31: -2204100255808977986
+      EyesLevelAssets_32: 485104202951547590
+      EyesLevelAssets_33: 4405735051564692075
+      EyesLevelAssets_34: -4898243332535926720
+      EyesLevelAssets_35: 4407867860984184318
+      EyesLevelAssets_36: -1801439264686820500
+      EyesLevelAssets_37: -8807092073007973591
+      EyesLevelAssets_38: 8318221622223396267
+      EyesLevelAssets_39: -411708742401801513
+      EyesLevelAssets_4: -6666496354395756760
+      EyesLevelAssets_40: -7777315495627957873
+      EyesLevelAssets_41: 6758323786936255927
+      EyesLevelAssets_42: -8480525879153800755
+      EyesLevelAssets_43: 5864155074936211498
+      EyesLevelAssets_44: -8284518101746786434
+      EyesLevelAssets_45: 7236161369079896374
+      EyesLevelAssets_46: -2916276763897192533
+      EyesLevelAssets_47: 8493106239497978501
+      EyesLevelAssets_48: -7986452579488873826
+      EyesLevelAssets_49: -5224769236946304066
+      EyesLevelAssets_5: -5401616946246930794
+      EyesLevelAssets_50: -2933606566847350869
+      EyesLevelAssets_51: 7506453997673702332
+      EyesLevelAssets_52: 4365823881125094324
+      EyesLevelAssets_53: 2640582177155299129
+      EyesLevelAssets_54: -8105210160970185
+      EyesLevelAssets_55: -7878663533315702843
+      EyesLevelAssets_56: -8286630983985887113
+      EyesLevelAssets_57: -9079877388277755242
+      EyesLevelAssets_58: 4711964422464958064
+      EyesLevelAssets_59: -4460213456685813215
+      EyesLevelAssets_6: -6193218082503493752
+      EyesLevelAssets_60: -3520041316508377857
+      EyesLevelAssets_61: -3397722723445907067
+      EyesLevelAssets_62: 7858402204673330873
+      EyesLevelAssets_63: -8880473473429455752
+      EyesLevelAssets_64: -4449410599627483831
+      EyesLevelAssets_65: 6229437376971061846
+      EyesLevelAssets_66: -5059637596855387817
+      EyesLevelAssets_67: -4805342861657299637
+      EyesLevelAssets_68: 7491795301853212892
+      EyesLevelAssets_69: 1437844480343586956
+      EyesLevelAssets_7: 6976388345419735556
+      EyesLevelAssets_70: 6021767488075320855
+      EyesLevelAssets_71: -6140987047807335347
+      EyesLevelAssets_72: 2428665679299696844
+      EyesLevelAssets_73: 8627642833716652057
+      EyesLevelAssets_74: 7313837754428603084
+      EyesLevelAssets_75: 950236639456042358
+      EyesLevelAssets_76: 5409536467615907150
+      EyesLevelAssets_77: 4642285675256061243
+      EyesLevelAssets_78: -1223477025780566550
+      EyesLevelAssets_79: 8468671623339592896
+      EyesLevelAssets_8: -678492915801492232
+      EyesLevelAssets_80: -2301800963815578176
+      EyesLevelAssets_81: -8055959559787582360
+      EyesLevelAssets_82: 4622220425992022497
+      EyesLevelAssets_83: 4901776355875469616
+      EyesLevelAssets_84: 3698507992051826289
+      EyesLevelAssets_85: 8485573235797622275
+      EyesLevelAssets_86: -2233326383885128997
+      EyesLevelAssets_87: -2257223474104482582
+      EyesLevelAssets_88: 2226526865191624164
+      EyesLevelAssets_89: 164859251831492338
+      EyesLevelAssets_9: 2353367426588387811
+      EyesLevelAssets_90: -9076139967458439847
+      EyesLevelAssets_91: 6472839089091731132
+      EyesLevelAssets_92: 6264480130042538428
+      EyesLevelAssets_93: 8640843659637216492
+      EyesLevelAssets_94: -6779446742597364917
+      EyesLevelAssets_95: -3472413554533186577
+      EyesLevelAssets_96: -6998979106108746884
+      EyesLevelAssets_97: 730527379531024501
+      EyesLevelAssets_98: 544541329112280182
+      EyesLevelAssets_99: -1775812844875008526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
